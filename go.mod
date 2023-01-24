@@ -1,4 +1,4 @@
-module golang.org/x/tools
+module github.com/jakinniranye/go-tools-jquery-3_5
 
 go 1.18 // tagx:compat 1.16
 
